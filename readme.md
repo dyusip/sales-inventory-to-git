@@ -3,10 +3,12 @@
 ### Introduction
 
 ...
+### Requirements
+ - 7.09 php version or higher
 
 ### Installation
 
-Assuming your machine meets all requirements - let's process to installation of Sales Inventory Laravel integration.
+Please follow the steps below.
 1. Create database name it "sales-inventory" without double qout.
 2. Open in cmd or terminal app and navigate to this folder
 3. Run following commands
@@ -29,7 +31,7 @@ And navigate to generated server link (http://127.0.0.1:8000)
 Sales and Inventory System that records sales transaction and Inventory Management.
 
 - Inventory Page - this sections shows inventory standing.
-- Sales Page - this page allows the user to input customer order. 
+- Sales Page - this page allows the user to input customer's order. 
 - Report Page - this section shows the sales report by date of transaction.
 
 #####How to Create Sales Order?
